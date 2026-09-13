@@ -53,6 +53,7 @@ Hyperparameters:
 
 #  Validation Results
 | Epoch |	Train Loss	| Validation Loss	| Validation | Accuracy |
+|:---:|:---:|:---:|:---:|:---:|
 | 1	| 0.4221	| 0.3538	| 85.0% |
 | 2	| 0.2285	| 0.3308	| 86.5% |
 | 3	| 0.1132	| 0.4396	| 86.3% |
