@@ -50,7 +50,8 @@ Hyperparameters:
 - Learning rate: 2e-5
 - Epochs: 3
 - Maximum sequence length: 128
-- Validation Results
+
+#  Validation Results
 | Epoch |	Train Loss	| Validation Loss	| Validation | Accuracy |
 | 1	| 0.4221	| 0.3538	| 85.0% |
 | 2	| 0.2285	| 0.3308	| 86.5% |
